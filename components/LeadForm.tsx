@@ -262,7 +262,7 @@ export function LeadForm() {
             className="mt-1"
           />
           <span className="text-sm text-dark-slate">
-            Accetto l'{" "}
+            Accetto l&apos;{" "}
             <a
               href="/privacy-policy"
               className="text-accent-primary hover:underline"

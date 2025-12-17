@@ -84,8 +84,8 @@ export function PersuasiveElements() {
                   ))}
                 </div>
                 <p className="text-light-gray text-sm mb-4 italic">
-                  "Servizio eccellente, risparmio reale e assistenza sempre
-                  disponibile."
+                  &quot;Servizio eccellente, risparmio reale e assistenza sempre
+                  disponibile.&quot;
                 </p>
                 <p className="text-light-offwhite text-xs font-semibold">
                   Cliente Tecnocasa

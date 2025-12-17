@@ -25,7 +25,7 @@ export default function Termini() {
               1. Oggetto
             </h2>
             <p>
-              I presenti termini e condizioni regolano l'utilizzo del servizio di
+              I presenti termini e condizioni regolano l&apos;utilizzo del servizio di
               consulenza Luce & Gas – Consulente Personale.
             </p>
           </section>
@@ -55,7 +55,7 @@ export default function Termini() {
               4. Attivazione servizio
             </h2>
             <p>
-              L'attivazione del servizio a pagamento avviene solo previo consenso
+              L&apos;attivazione del servizio a pagamento avviene solo previo consenso
               esplicito del cliente dopo la presentazione di tutte le condizioni,
               costi e tempi.
             </p>

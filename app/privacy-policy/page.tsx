@@ -47,7 +47,7 @@ export default function PrivacyPolicy() {
             </h2>
             <p>
               I dati vengono utilizzati esclusivamente per: fornire il servizio
-              di consulenza richiesto, contattare il cliente per l'attivazione
+              di consulenza richiesto, contattare il cliente per l&apos;attivazione
               del servizio, inviare comunicazioni relative al servizio.
             </p>
           </section>
@@ -57,7 +57,7 @@ export default function PrivacyPolicy() {
               4. Base giuridica
             </h2>
             <p>
-              Il trattamento è basato sul consenso dell'interessato e sulla
+              Il trattamento è basato sul consenso dell&apos;interessato e sulla
               necessità di eseguire il contratto di servizio.
             </p>
           </section>
@@ -74,7 +74,7 @@ export default function PrivacyPolicy() {
 
           <section>
             <h2 className="text-2xl font-semibold text-dark-navy mb-4">
-              6. Diritti dell'interessato
+              6. Diritti dell&apos;interessato
             </h2>
             <p>
               Hai diritto di accedere, rettificare, cancellare i tuoi dati o
