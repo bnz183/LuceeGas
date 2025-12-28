@@ -17,8 +17,20 @@ export function Hero() {
   };
 
   return (
-    <section className="relative min-h-screen flex items-center justify-center bg-gradient-to-br from-dark-navy via-dark-charcoal to-dark-slate text-light-offwhite px-4 py-20">
-      <div className="max-w-6xl mx-auto text-center space-y-8">
+    <section 
+      className="relative min-h-screen flex items-center justify-center text-light-offwhite px-4 py-20 overflow-hidden"
+      style={{
+        backgroundImage: "url('/images/tecnocasa-hero.jpg')",
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        backgroundRepeat: "no-repeat",
+      }}
+    >
+      {/* Dark overlay for text readability */}
+      <div className="absolute inset-0 bg-gradient-to-br from-dark-navy/85 via-dark-charcoal/80 to-dark-slate/85 z-0"></div>
+      
+      {/* Content with higher z-index */}
+      <div className="relative z-10 max-w-6xl mx-auto text-center space-y-8">
         {/* Headline */}
         <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold text-balance leading-tight">
           LUCE & GAS
